@@ -7,6 +7,8 @@ This project implements **real-time fraud detection** using:
 - **dbt** (Data transformations, anomaly detection, and aggregations)
 - **Jupyter Notebook** (For querying and analyzing results)
 
+**Read the Full Article on Medium:** [Link to Medium](#)
+
 ## Setup & Installation
 ### 1. Clone the repository
 ```bash
